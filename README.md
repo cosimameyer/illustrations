@@ -8,6 +8,10 @@ If you find it useful, that's great! I created the illustrations to make (more o
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
+## What I enjoy doing: Creativity, code, and puzzles
+
+<img src="https://github.com/cosimameyer/illustrations/blob/main/creativity_and_code.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/creativity_and_code.png" width="500" height="500" />
+
 ## Writing functions in R
 
 
