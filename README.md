@@ -12,7 +12,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/creativity_and_code.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/creativity_and_code.png" width="500" height="500" />
 
-**ALT:**
+<details><summary>ALT</summary>Image showing two people holding two puzzle pieces to the sky (on one piece it says ”Creativity“, on the other ”Code“)) with a subtitle below the two persons saying ”What I enjoy doing ♥️“</details>
 
 ## Writing functions in R
 
@@ -21,7 +21,11 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/CS_Functions.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_Functions.png" width="700" height="500" />
 
-**ALT:**
+<details><summary>ALT</summary>Image showing how a general function in R looks like (a function has arguments, a function statement, and usually a return function). Good practices when writing functions are: 
+Use meaningful names for your functions. It’s good to use verbs for functions.
+Make your function short and simple - each function should do one thing at a time
+Use an explicit return statement
+Writing assertions, warnings and stops is helpful</details>
 
 ## Debugging in R
 
@@ -29,7 +33,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/CS_Debugging.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_Debugging.png" width="700" height="500" />
 
-**ALT:**
+<details><summary>ALT</summary>Image showing a mole as a comparison for the debugging process (a mole digs in using debug(), stops when there is a browser(), and leaves the tunnel when calling undebug(). It also shows how the flow package works and that you get a visual overview of the "flow" of your package.</details>
 
 ## Writing a package in R
 
@@ -37,7 +41,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/CS_Package.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_Package.png" width="700" height="500" />
 
-**ALT:**
+<details><summary>ALT</summary>A summary reiterating the basic structure in package development (DESCRIPTION, NAMESPACE, R/, man/, and tests/) as well as helpful packages (devtools, use this, roxygen2, testthat, xpectr, cover, goodpractice, inteRgrate).</details>
 
 ## Shiny 
 
@@ -45,17 +49,23 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_UI.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_UI.png" width="700" height="500" />
 
-**ALT:**
+<details><summary>ALT</summary>An image showing a pseudo UI
+ui <- fluidPage(
+titltePanel("Your Title"),
+sidebarLayout(sidebarPanel(... Some content...), 
+mainPanel(...place-your-plot...))</details>
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_Server.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_Server.png" width="700" height="500" />
 
-**ALT:**
+<details><summary>ALT</summary>An image showing a pseudo server
+server <- function(input, output{output$first_plot <- renderPlot({...create-your-plot....})}</details>
 
 ### Visualization of reactivity (based on the excellent description by Garett Grolemund)
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_flow.gif" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_flow.gif" width="500" height="500" />
 
-**ALT:** GIF showing a pigeon carrier flying to the server to update a visualization when it is relevant
+<details><summary>ALT</summary>GIF showing a pigeon carrier flying to the server to update a visualization when it is relevant</details>
+
 
 ### CheatSheet
 
@@ -81,19 +91,23 @@ server <- function(input, output{output$first_plot <- renderPlot({...create-your
 ### Workflow
 <img src="https://github.com/cosimameyer/illustrations/blob/main/Git_workflow.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Git_workflow.png" width="700" height="500" />
 
-**ALT:**
+<details><summary>ALT</summary>Image showing a git workflow from the working directory to the remote repo. 
+Working directory → Staging area → local repo → remote repo and also common git commands (git add code.R, git commit -m "Update", git push, git pull, git checkout, git merge)</details>
 
 ### GitHub and RStudio
 <img src="https://github.com/cosimameyer/illustrations/blob/main/Git_R.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Git_R.png" width="700" height="500" />
 
-**ALT:**
-
+<details><summary>ALT</summary>Visualization showing a typical workflow when using GitHub in RStudio with a new project: 1) Create a new repository on GitHub, 2) Open . Rproj in RStudio, 3) Connect with GitHub - and now it's time to pull, commit and push :) </details>
+  
 ### CheatSheet
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/CS_GitHub.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_GitHub.png" width="700" height="500" />
 
-**ALT:**
-
+<details><summary>ALT</summary>Visual summary of how to GitHub in and with RStudio
+left side: Image showing a git workflow from the working directory to the remote repo. 
+Working directory → Staging area → local repo → remote repo and also common git commands (git add code.R, git commit -m "Update", git push, git pull, git checkout, git merge)
+right side: Visualization showing a typical workflow when using GitHub in RStudio with a new project: 1) Create a new repository on GitHub, 2) Open .Rproj in RStudio, 3) Connect with GitHub - and now it's time to pull, commit and push :)</details>
+  
 ## NLP
 
 ### Terms and concepts
@@ -113,7 +127,7 @@ Lemmatization: With lemmatization, it’s slightly different. Instead of "stud" 
 <details><summary>ALT</summary>Image showing two different workflows (Bag of words and BERT). The main difference is that with BERT you build upon a pre-trained model and tokenizer while with BOW you often have to train a model from scratch.</details>
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT.png" width="700" height="500" />
-
+  
 <details><summary>ALT</summary>Image showing three important components to know when training a BERT model.
 First, with BERT, you identify the order of the input. You give the model information about different embedding layers (the tokens (BERT uses special tokens ([CLS] and [SEP]) to make sense of the sentence), the positional embedding (where each token is placed in the sentence), and the segment embedding (which gives you more info about the sentences to which the tokens belong).
 And then there is the training:
