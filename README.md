@@ -94,11 +94,22 @@ server <- function(input, output{output$first_plot <- renderPlot({...create-your
 <details><summary>ALT</summary>Image showing a git workflow from the working directory to the remote repo. 
 Working directory → Staging area → local repo → remote repo and also common git commands (git add code.R, git commit -m "Update", git push, git pull, git checkout, git merge)</details>
 
-### GitHub and RStudio
-<img src="https://github.com/cosimameyer/illustrations/blob/main/Git_R.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Git_R.png" width="700" height="500" />
+### Branches
+<img src="https://github.com/cosimameyer/illustrations/blob/main/branches2.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/branches2.png" width="700" height="500" />
 
-<details><summary>ALT</summary>Visualization showing a typical workflow when using GitHub in RStudio with a new project: 1) Create a new repository on GitHub, 2) Open . Rproj in RStudio, 3) Connect with GitHub - and now it's time to pull, commit and push :) </details>
-  
+<details><summary>ALT</summary>GIF showing how a feature branch evolves from a main branch and is then guided back (merged) into the main branch</details>
+
+### GitHub and RStudio
+<img src="https://github.com/cosimameyer/illustrations/blob/main/git_rstudio.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git_rstudio.png" width="700" height="500" />
+
+<details><summary>ALT</summary>Visualization showing a typical workflow when using GitHub in RStudio with a new project: 1) Create a new repository on GitHub, 2) Open . Rproj in RStudio, 3) Connect with GitHub - and now it’s time to pull, commit and push :)</details>
+
+### GitHub and VS Code
+<img src="https://github.com/cosimameyer/illustrations/blob/main/git_vscode.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git_vscode.png" width="700" height="500" />
+
+<details><summary>ALT</summary>Visualization showing a typical workflow when using GitHub in VS Code with a new project: 1) Create a new repository on GitHub, 2) Clone repository in your VS Code, 3) Connect with GitHub - and now it’s time to pull, commit and push :)</details>
+
+
 ### CheatSheet
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/CS_GitHub.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_GitHub.png" width="700" height="500" />
