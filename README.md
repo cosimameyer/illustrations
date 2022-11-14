@@ -8,11 +8,33 @@ If you find it useful, that's great! I created the illustrations to make (more o
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-## What I enjoy doing: Creativity, code, and puzzles
+## General art
+
+### What I enjoy doing: Creativity, code, and puzzles
 
 <img src="https://github.com/cosimameyer/illustrations/blob/main/creativity_and_code.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/creativity_and_code.png" width="500" height="500" />
 
 <details><summary>ALT</summary>Image showing two people holding two puzzle pieces to the sky (on one piece it says ”Creativity“, on the other ”Code“)) with a subtitle below the two persons saying ”What I enjoy doing ♥️“</details>
+
+### R and Python 💛💙
+
+<img src="https://github.com/cosimameyer/illustrations/blob/main/pythonistr.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/pythonistr.png" width="500" height="500" />
+
+<details><summary>ALT</summary>Image showing a blue R with a pirate's hat and eye patch with a snake (Python) around R's leg</details>
+
+### Hello Mastodon 
+
+<img src="https://github.com/cosimameyer/illustrations/blob/main/hello_mastodon.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/hello_mastodon.png" width="500" height="500" />
+
+<details><summary>ALT</summary>A blue mastodon/elephant holding up a sign with "hello" in hand-writing written on it</details>
+
+
+### R
+
+<img src="https://github.com/cosimameyer/illustrations/blob/main/pirate_r.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/pirate_r.png" width="500" height="500" />
+
+<details><summary>ALT</summary>Image showing a blue R with a pirate's hat and eye patch</details>
+
 
 ## Writing functions in R
 
