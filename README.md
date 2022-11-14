@@ -18,20 +18,20 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### R and Python 💛💙
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/pythonistr.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/pythonistr.png" width="500" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/pythonistr.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/pythonistr.png" width="400" height="500" />
 
 <details><summary>ALT</summary>Image showing a blue R with a pirate's hat and eye patch with a snake (Python) around R's leg</details>
 
 ### Hello Mastodon 
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/hello_mastodon.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/hello_mastodon.png" width="500" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/hello_mastodon.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/hello_mastodon.png" width="400" height="500" />
 
 <details><summary>ALT</summary>A blue mastodon/elephant holding up a sign with "hello" in hand-writing written on it</details>
 
 
 ### R
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/pirate_r.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/pirate_r.png" width="500" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/pirate_r.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/pirate_r.png" width="400" height="500" />
 
 <details><summary>ALT</summary>Image showing a blue R with a pirate's hat and eye patch</details>
 
