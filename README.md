@@ -144,7 +144,7 @@ right side: Visualization showing a typical workflow when using GitHub in RStudi
 ## NLP
 
 ### Terms and concepts
-<img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/CS_Terms.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/CS_Terms.png" width="500" height="700" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/CS_Terms_purple.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/CS_Terms_purple.png" width="500" height="700" />
 
 <details><summary>ALT</summary>Image showing a visual overview of terms and concepts explaining a corpus, tokens, tokenization, DFM, stemming, and lemmatization. The verbalized version is in the text below:
 Corpus: When you have your text data ready, you have your corpus. It’s a collection of documents. 
@@ -170,9 +170,9 @@ During the second half, you train the model to predict the next sentence. This w
 These visualizations are also available in *blue*: 
 
 <p float="left">
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_purple.png" width="100" />
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_purple.png" width="100" /> 
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_purple.png" width="100" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/BERT_Embedding_blue.png" width="150" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/BERT_BoW_blue.png" width="150" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_blue.png" width="150" />
 </p>
 
 
