@@ -12,26 +12,26 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### What I enjoy doing: Creativity, code, and puzzles
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/creativity_and_code.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/creativity_and_code.png" width="500" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/misc/creativity_and_code.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/misc/creativity_and_code.png" width="500" height="500" />
 
 <details><summary>ALT</summary>Image showing two people holding two puzzle pieces to the sky (on one piece it says ”Creativity“, on the other ”Code“)) with a subtitle below the two persons saying ”What I enjoy doing ♥️“</details>
 
 ### R and Python 💛💙
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/pythonistr.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/pythonistr.png" width="400" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/misc/pythonistr.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/misc/pythonistr.png" width="400" height="500" />
 
 <details><summary>ALT</summary>Image showing a blue R with a pirate's hat and eye patch with a snake (Python) around R's leg</details>
 
 ### Hello Mastodon 
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/hello_mastodon.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/hello_mastodon.png" width="400" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/misc/hello_mastodon.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/misc/hello_mastodon.png" width="400" height="500" />
 
 <details><summary>ALT</summary>A blue mastodon/elephant holding up a sign with "hello" in hand-writing written on it</details>
 
 
 ### R
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/pirate_r.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/pirate_r.png" width="400" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/misc/pirate_r.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/misc/pirate_r.png" width="400" height="500" />
 
 <details><summary>ALT</summary>Image showing a blue R with a pirate's hat and eye patch</details>
 
@@ -41,7 +41,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### CheatSheet
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/CS_Functions.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_Functions.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/writing-functions-r/CS_Functions.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/writing-functions-r/CS_Functions.png" width="700" height="500" />
 
 <details><summary>ALT</summary>Image showing how a general function in R looks like (a function has arguments, a function statement, and usually a return function). Good practices when writing functions are: 
 Use meaningful names for your functions. It’s good to use verbs for functions.
@@ -53,7 +53,7 @@ Writing assertions, warnings and stops is helpful</details>
 
 ### CheatSheet
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/CS_Debugging.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_Debugging.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/debugging-r/CS_Debugging.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/debugging-r/CS_Debugging.png" width="700" height="500" />
 
 <details><summary>ALT</summary>Image showing a mole as a comparison for the debugging process (a mole digs in using debug(), stops when there is a browser(), and leaves the tunnel when calling undebug(). It also shows how the flow package works and that you get a visual overview of the "flow" of your package.</details>
 
@@ -61,7 +61,7 @@ Writing assertions, warnings and stops is helpful</details>
 
 ### CheatSheet
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/CS_Package.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_Package.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/writing-packages-r/CS_Package.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/writing-packages-r/CS_Package.png" width="700" height="500" />
 
 <details><summary>ALT</summary>A summary reiterating the basic structure in package development (DESCRIPTION, NAMESPACE, R/, man/, and tests/) as well as helpful packages (devtools, use this, roxygen2, testthat, xpectr, cover, goodpractice, inteRgrate).</details>
 
@@ -69,7 +69,7 @@ Writing assertions, warnings and stops is helpful</details>
 
 ### UI and Server
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_UI.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_UI.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/shiny/Shiny_UI.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/shiny/Shiny_UI.png" width="700" height="500" />
 
 <details><summary>ALT</summary>An image showing a pseudo UI
 ui <- fluidPage(
@@ -77,21 +77,21 @@ titltePanel("Your Title"),
 sidebarLayout(sidebarPanel(... Some content...), 
 mainPanel(...place-your-plot...))</details>
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_Server.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_Server.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/shiny/Shiny_Server.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/shiny/Shiny_Server.png" width="700" height="500" />
 
 <details><summary>ALT</summary>An image showing a pseudo server
 server <- function(input, output{output$first_plot <- renderPlot({...create-your-plot....})}</details>
 
 ### Visualization of reactivity (based on the excellent description by Garett Grolemund)
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_flow.gif" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Shiny_flow.gif" width="500" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/shiny/Shiny_flow.gif" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/shiny/Shiny_flow.gif" width="500" height="500" />
 
 <details><summary>ALT</summary>GIF showing a pigeon carrier flying to the server to update a visualization when it is relevant</details>
 
 
 ### CheatSheet
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/CS_Shiny.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_Shiny.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/shiny/CS_Shiny.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/shiny/CS_Shiny.png" width="700" height="500" />
 
 <details><summary>ALT</summary>A visual summary of ShinyApps
 
@@ -111,30 +111,30 @@ server <- function(input, output{output$first_plot <- renderPlot({...create-your
 ## Git(Hub)
 
 ### Workflow
-<img src="https://github.com/cosimameyer/illustrations/blob/main/Git_workflow.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Git_workflow.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/git/Git_workflow.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git/Git_workflow.png" width="700" height="500" />
 
 <details><summary>ALT</summary>Image showing a git workflow from the working directory to the remote repo. 
 Working directory → Staging area → local repo → remote repo and also common git commands (git add code.R, git commit -m "Update", git push, git pull, git checkout, git merge)</details>
 
 ### Branches
-<img src="https://github.com/cosimameyer/illustrations/blob/main/branches2.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/branches2.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/git/branches2.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git/branches2.png" width="700" height="500" />
 
 <details><summary>ALT</summary>GIF showing how a feature branch evolves from a main branch and is then guided back (merged) into the main branch</details>
 
 ### GitHub and RStudio
-<img src="https://github.com/cosimameyer/illustrations/blob/main/git_rstudio.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git_rstudio.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/git/git_rstudio.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git/git_rstudio.png" width="700" height="500" />
 
 <details><summary>ALT</summary>Visualization showing a typical workflow when using GitHub in RStudio with a new project: 1) Create a new repository on GitHub, 2) Open . Rproj in RStudio, 3) Connect with GitHub - and now it’s time to pull, commit and push :)</details>
 
 ### GitHub and VS Code
-<img src="https://github.com/cosimameyer/illustrations/blob/main/git_vscode.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git_vscode.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/git/git_vscode.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git/git_vscode.png" width="700" height="500" />
 
 <details><summary>ALT</summary>Visualization showing a typical workflow when using GitHub in VS Code with a new project: 1) Create a new repository on GitHub, 2) Clone repository in your VS Code, 3) Connect with GitHub - and now it’s time to pull, commit and push :)</details>
 
 
 ### CheatSheet
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/CS_GitHub.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_GitHub.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/git/CS_GitHub.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/git/CS_GitHub.png" width="700" height="500" />
 
 <details><summary>ALT</summary>Visual summary of how to GitHub in and with RStudio
 left side: Image showing a git workflow from the working directory to the remote repo. 
@@ -144,7 +144,7 @@ right side: Visualization showing a typical workflow when using GitHub in RStudi
 ## NLP
 
 ### Terms and concepts
-<img src="https://github.com/cosimameyer/illustrations/blob/main/CS_Terms.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/CS_Terms.png" width="500" height="700" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/CS_Terms.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/CS_Terms.png" width="500" height="700" />
 
 <details><summary>ALT</summary>Image showing a visual overview of terms and concepts explaining a corpus, tokens, tokenization, DFM, stemming, and lemmatization. The verbalized version is in the text below:
 Corpus: When you have your text data ready, you have your corpus. It’s a collection of documents. 
@@ -155,11 +155,11 @@ Stemming: With stemming, you are getting the stem of the word.
 Lemmatization: With lemmatization, it’s slightly different. Instead of "stud" (which is the stem of the study terms), you end up with a meaningful stem - "study"</details>
 
 ### BERT 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/BERT_BoW_purple.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/BERT_BoW_purple.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/BERT_BoW_purple.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/BERT_BoW_purple.png" width="700" height="500" />
 
 <details><summary>ALT</summary>Image showing two different workflows (Bag of words and BERT). The main difference is that with BERT you build upon a pre-trained model and tokenizer while with BOW you often have to train a model from scratch.</details>
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_purple.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_purple.png" width="700" height="500" />
   
 <details><summary>ALT</summary>Image showing three important components to know when training a BERT model.
 First, with BERT, you identify the order of the input. You give the model information about different embedding layers (the tokens (BERT uses special tokens ([CLS] and [SEP]) to make sense of the sentence), the positional embedding (where each token is placed in the sentence), and the segment embedding (which gives you more info about the sentences to which the tokens belong).
@@ -170,9 +170,9 @@ During the second half, you train the model to predict the next sentence. This w
 These visualizations are also available in *blue*: 
 
 <p float="left">
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" width="100" />
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" width="100" /> 
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" width="100" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_purple.png" width="100" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_purple.png" width="100" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_purple.png" width="100" />
 </p>
 
 
