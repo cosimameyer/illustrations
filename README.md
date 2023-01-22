@@ -155,11 +155,11 @@ Stemming: With stemming, you are getting the stem of the word.
 Lemmatization: With lemmatization, it’s slightly different. Instead of "stud" (which is the stem of the study terms), you end up with a meaningful stem - "study"</details>
 
 ### BERT 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/BERT_BoW.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/BERT_BoW.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/BERT_BoW_purple.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/BERT_BoW_purple.png" width="700" height="500" />
 
 <details><summary>ALT</summary>Image showing two different workflows (Bag of words and BERT). The main difference is that with BERT you build upon a pre-trained model and tokenizer while with BOW you often have to train a model from scratch.</details>
 
-<img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT.png" width="700" height="500" />
+<img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" width="700" height="500" />
   
 <details><summary>ALT</summary>Image showing three important components to know when training a BERT model.
 First, with BERT, you identify the order of the input. You give the model information about different embedding layers (the tokens (BERT uses special tokens ([CLS] and [SEP]) to make sense of the sentence), the positional embedding (where each token is placed in the sentence), and the segment embedding (which gives you more info about the sentences to which the tokens belong).
@@ -167,5 +167,12 @@ And then there is the training:
 The first half of the training involves masking the words (Mask ML). During the training period, you mask one word at a time and the model learns, which word usually follows.
 During the second half, you train the model to predict the next sentence. This way, the model learns which sentences usually follow each other.</details>
 
+These visualizations are also available in *blue*: 
+
+<p float="left">
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" width="100" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" width="100" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/Train_BERT_purple.png" width="100" />
+</p>
 
 
