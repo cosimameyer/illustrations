@@ -172,7 +172,7 @@ These visualizations are also available in *blue*:
 <p float="left">
   <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/BERT_Embedding_blue.png" width="200" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/BERT_BoW_blue.png" width="200" /> 
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/Train_BERT_blue.png" width="200" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/machine-learning/BERT_training_blue.png" width="200" />
 </p>
 
 
