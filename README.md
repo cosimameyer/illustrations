@@ -4,7 +4,7 @@
 
 This folder contains illustrations that I generated to explain concepts in #stats, #rstats, and/or #python. 
 
-If you find it useful, that's great! I created the illustrations to make (more or less) complex topics more understandable and you're more than welcome to use it by CC-BY license. Please attribute it by citing "Illustration by @cosima_meyer".
+I'm very happy if you find these resources useful. I created the illustrations to make (more or less) complex topics more understandable and you're more than welcome to use them by CC-BY license. Please attribute it by citing "Illustration by @cosima_meyer".
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
