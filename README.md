@@ -195,4 +195,18 @@ The visualization of six different model agnostic approaches to explain machine 
 The visualization shows the logic of integrated gradients. You start with your baseline which does not have any effect on the model classification and continue stepwise using linear interpolation to get to the original input. On the way, you calculate the model's prediction, compare it to the baseline, and derive the integrated gradients for each input feature by summing up the results of these calculations.
 </details>
 
+## Amazing Women
+
+The following illustrations are part of a larger project where I aim to make women in the world of programming and stats more visible. 
+
+<p float="left">
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/international_womens_day.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/international_womens_day.png" width="200" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ada_lovelace.png" data-canonical-src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ada_lovelace.png" width="200" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ida_rhodes.png" width="200" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/katherine_g_johnson.png" width="200" /> 
+</p>
+
+
+
+
 
