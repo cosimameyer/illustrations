@@ -197,7 +197,7 @@ The visualization shows the logic of integrated gradients. You start with your b
 
 ## Amazing Women
 
-The following illustrations are part of a larger project where I aim to make women in the world of programming and stats more visible. 
+The following illustrations are part of a larger project in which I aim to make women more visible in the world of programming, statistics, and STEM in general.
 
 <p float="left">
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/international_womens_day.png" width="400" />
