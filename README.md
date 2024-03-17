@@ -206,6 +206,8 @@ The following illustrations are part of a larger project in which I aim to make 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/katherine_g_johnson.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/timnit_gebru.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/lynn_conway.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/melanie_mitchell.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mary_lou_jepsen.png" width="400" /> 
 </p>
 
 
