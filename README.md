@@ -201,13 +201,17 @@ The following illustrations are part of a larger project in which I aim to make 
 
 <p float="left">
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/international_womens_day.png" width="400" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/rladies.png" width="400" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/pyladies.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ada_lovelace.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ida_rhodes.png" width="400" /> 
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/katherine_g_johnson.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/katherine_johnson.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/timnit_gebru.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/lynn_conway.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/melanie_mitchell.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mary_lou_jepsen.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/erin_ledell.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/grace_hopper.png" width="400" /> 
 </p>
 
 
