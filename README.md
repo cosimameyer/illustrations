@@ -201,7 +201,7 @@ The following illustrations are part of a larger project in which I aim to make 
 
 <p float="left">
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/international_womens_day.png" width="400" />
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/rladies.png" width="400" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/r-ladies.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/pyladies.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ada_lovelace.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ida_rhodes.png" width="400" /> 
