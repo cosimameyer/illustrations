@@ -201,15 +201,20 @@ The following illustrations are part of a larger project in which I aim to make 
 
 <p float="left">
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ada_lovelace_small.png" width="400" />
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/daniela_rus_small.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/daniela_rus_small.png" width="400" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/dorothy_vaughan_small.png" width="400" />  
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/chelsea_finn_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/erin_ledell_small.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/frauke_kreuter_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/grace_hopper_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ida_rhodes_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/international_womens_day_small.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/katherine_johnson_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/lynn_conway_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/melanie_mitchell_small.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mary_jackson_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mary_lou_jepsen_small.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mia_shah-dand_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/pyladies_small.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/r-ladies_small.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/timnit_gebru_small.png" width="400" /> 
