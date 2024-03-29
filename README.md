@@ -207,8 +207,10 @@ The following illustrations are part of a larger project in which I aim to make 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/erin_ledell_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/frauke_kreuter_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/grace_hopper_small.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/hanan_salam_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ida_rhodes_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/international_womens_day_small.png" width="400" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/jacqueline_nolis_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/katherine_johnson_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/lynn_conway_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/melanie_mitchell_small.png" width="400" /> 
@@ -217,6 +219,7 @@ The following illustrations are part of a larger project in which I aim to make 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mia_shah-dand_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/pyladies_small.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/r-ladies_small.png" width="400" />
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/sasha_luccioni_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/timnit_gebru_small.png" width="400" /> 
 </p>
 
