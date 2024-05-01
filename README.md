@@ -202,7 +202,8 @@ The following illustrations are part of a larger project in which I aim to make 
 <p float="left">
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ada_lovelace_small.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/daniela_rus_small.png" width="400" />
-  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/dorothy_vaughan_small.png" width="400" />  
+<img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/daniela_witten_small.png" width="400" />
+    <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/dorothy_vaughan_small.png" width="400" />  
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/chelsea_finn_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/erin_ledell_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/frauke_kreuter_small.png" width="400" /> 
