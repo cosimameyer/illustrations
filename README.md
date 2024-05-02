@@ -208,6 +208,7 @@ The following illustrations are part of a larger project in which I aim to make 
 | <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/chelsea_finn_small.png" width="400" /> | Chelsea Finn <br><br>✨ is an Assistant Professor at Stanford University and was part of Google Brain<br>✨ pioneers in the field of [deep robotic learning](https://nyti.ms/4dgoZsF)<br> ✨ has won multiple awards for her work<br><br>🔗 [and much more](https://en.wikipedia.org/wiki/Chelsea_Finn)|
 | <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/erin_ledell_small.png" width="400" /> |  |
 | <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/frauke_kreuter_small.png" width="400" /> | Frauke Kreuter<br><br>✨ is a sociologist and statistician and holds Professorships at the University of Munich and the University of Maryland<br>✨co-authored the seminal book 'Data Analysis Using Stata'<br>✨also co-hosts the German podcast #digdeep that discusses developments in digitalization<br>✨ has won multiple awards for her work<br><br>🔗 [and much more](https://en.wikipedia.org/wiki/Frauke_Kreuter) |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/gabriela_de_queiroz_small.png" width="400" /> |  |
 | <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/grace_hopper_small.png" width="400" /> |  |
 | <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/hanan_salam_small.png" width="400" /> |  |
 | <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ida_rhodes_small.png" width="400" /> | Ida Rhodes<br><br>✨ was a pioneer in computer science (co-designed the C-10 programming language for the universal automatic computer I)<br>✨ developed an often-used algorithm for a Jewish calendar<br>✨was referred to as the UNIVAC I Pioneer at the AFIPS National Computer Conference in Chicago<br><br>🔗 [and much more](https://en.wikipedia.org/wiki/Ida_Rhodes) |
@@ -233,6 +234,7 @@ The following illustrations are part of a larger project in which I aim to make 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/chelsea_finn_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/erin_ledell_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/frauke_kreuter_small.png" width="400" /> 
+  <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/gabriela_de_queiroz_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/grace_hopper_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/hanan_salam_small.png" width="400" /> 
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ida_rhodes_small.png" width="400" /> 
