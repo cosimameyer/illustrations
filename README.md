@@ -198,7 +198,32 @@ The visualization shows the logic of integrated gradients. You start with your b
 ## Amazing Women
 
 The following illustrations are part of a larger project in which I aim to make women more visible in the world of programming, statistics, and STEM in general.
-
+<!--
+|  |  |
+| --- | --- |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ada_lovelace_small.png" width="400" /> | Ada Lovelace <br> 🔗 [and much more]() |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/daniela_rus_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/daniela_witten_small.png" width="400" /> | Daniela Witten <br><br>✨ is a biostatistician and Professor at the University of Washington<br>✨ focuses her research on [high-dimensional statistical learning](https://bit.ly/4bgvERU)<br>✨ co-authored the seminal book 'An Introduction to Statistical Learning' (both with #rstats and #python)<br>✨ has won multiple awards for her work<br><br>🔗 [and much more](https://en.m.wikipedia.org/wiki/Daniela_Witten) |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/dorothy_vaughan_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/chelsea_finn_small.png" width="400" /> | Chelsea Finn <br><br>✨ is an Assistant Professor at Stanford University and was part of Google Brain<br>✨ pioneers in the field of [deep robotic learning](https://nyti.ms/4dgoZsF)<br> ✨ has won multiple awards for her work<br><br>🔗 [and much more](https://en.wikipedia.org/wiki/Chelsea_Finn)|
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/erin_ledell_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/frauke_kreuter_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/grace_hopper_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/hanan_salam_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ida_rhodes_small.png" width="400" /> | Ida Rhodes<br><br>✨ was a pioneer in computer science (co-designed the C-10 programming language for the universal automatic computer I)<br>✨ developed an often-used algorithm for a Jewish calendar<br>✨was referred to as the UNIVAC I Pioneer at the AFIPS National Computer Conference in Chicago<br><br>🔗 [and much more](https://en.wikipedia.org/wiki/Ida_Rhodes) |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/international_womens_day_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/jacqueline_nolis_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/katherine_johnson_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/lynn_conway_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/melanie_mitchell_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mary_jackson_small.png" width="400" /> | Mary<br><br>✨ was a mathematician and aerospace engineer at the NACA (the predecessor of NASA)<br>✨ many of you may know her story from the book/movie 'Hidden Figures' which tells the story of her life<br>✨ has won multiple awards for her work and supported women and other minorities to advance in their careers<br><br>🔗 [and much more](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)) |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mary_lou_jepsen_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/mia_shah-dand_small.png" width="400" /> | Mia Shah-Dand<br><br>✨ is the CEO of Lighthouse3<br>✨ founded Women in AI Ethics™ to increase reputation and recognition of women in the field of AI ethics<br>✨ works towards a human-centered view of AI and is an advocate for #responsibleAI<br><br>🔗 [and much more](https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/) |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/pyladies_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/r-ladies_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/sasha_luccioni_small.png" width="400" /> |  |
+| <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/timnit_gebru_small.png" width="400" /> | Timnit Gebru<br><br>✨ is a computer scientist as well as the founder and executive director of The Distributed AI Research Institute (DAIR)<br>✨ is pioneering with her work and advocacy in the field of #ethicalAI<br>✨ is co-founder of Black in AI<br><br>🔗 [and much more](https://en.wikipedia.org/wiki/Timnit_Gebru) |
+-->
 <p float="left">
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/ada_lovelace_small.png" width="400" />
   <img src="https://github.com/cosimameyer/illustrations/blob/main/amazing-women/daniela_rus_small.png" width="400" />
