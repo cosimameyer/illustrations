@@ -1,5 +1,10 @@
 # Illustrations
 
+> **🚚 This repository has moved.**
+> All illustrations now live in [cosimameyer/gallery](https://github.com/cosimameyer/gallery/tree/main/content),
+> where each image has a canonical record (alt text, bio, platform-specific captions).
+> This repository is archived and no longer maintained — please open issues and PRs in **gallery** instead.
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.de)
 
 This folder contains illustrations that I generated to explain concepts in #stats, #rstats, and/or #python. 
